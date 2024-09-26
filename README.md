@@ -1,4 +1,4 @@
-## Olá! Eu sou o Murilo GAlassi 👋
+## Olá! Eu sou o Murilo Galassi 👋
 
 - 🔭 Hoje trabalho com suporte
 - 🌱 Estudando C# e .NET
