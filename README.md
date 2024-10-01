@@ -15,6 +15,8 @@
   
 </div>
 
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
 </div>
 
 <div style="display: inline_block"><br>
