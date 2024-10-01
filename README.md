@@ -1,4 +1,6 @@
-## Olá! Eu sou o Murilo Galassi 👋
+<center><h2>Olá! Eu sou o Murilo Galassi 👋</h2></center>
+
+![](https://steamcommunity.com/sharedfiles/filedetails/?id=1258934656)
 
 - 🔭 Hoje trabalho com suporte
 - 🌱 Estudando C# e .NET
