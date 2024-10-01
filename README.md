@@ -1,9 +1,14 @@
 <center><h2>Olá! Eu sou o Murilo Galassi 👋</h2></center>
 
+- 👽 Olá, sou Murilo, formado em Ciências da Computação e apaixonado por tecnologia. Também gosto de praticar Jiu-Jitsu. Atualmente, estou em busca de uma vaga na área de programação.
 
 - 🔭 Hoje trabalho com suporte tecnico
+
 - 🌱 Estudando C# e .NET
+
 - 😄 Pronouns: ele/dele
+
+##
 
 <div align='center'>
 
@@ -15,11 +20,9 @@
   
 </div>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
-
 </div>
 
-<div style="display: inline_block"><br>
+<center><div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -32,5 +35,5 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/murilo-galassi-56b219226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <center><a href="https://www.linkedin.com/in/murilo-galassi-56b219226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">,</center></a>
 </div>
