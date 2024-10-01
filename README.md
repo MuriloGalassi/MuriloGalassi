@@ -1,8 +1,8 @@
 <center><h2>Olá! Eu sou o Murilo Galassi 👋</h2></center>
 
-![](https://steamcommunity.com/sharedfiles/filedetails/?id=1258934656)
+![Gif Mario](https://pin.it/2QIHfru9p)
 
-- 🔭 Hoje trabalho com suporte
+- 🔭 Hoje trabalho com suporte tecnico
 - 🌱 Estudando C# e .NET
 - 😄 Pronouns: ele/dele
 
