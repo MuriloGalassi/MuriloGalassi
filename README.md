@@ -1,6 +1,6 @@
 # 💻 Murilo Galassi - Desenvolvedor de Software
 
-Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontra projetos e soluções em desenvolvimento de software com foco em **[suas principais linguagens ou áreas de interesse, como Python, JavaScript, C#, etc.]**. Trabalho para resolver problemas complexos com soluções simples e escaláveis.
+Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontra projetos e soluções em desenvolvimento de software com foco em Python, JavaScript e C#. Trabalho para resolver problemas complexos com soluções simples e escaláveis.
 
 ---
 
@@ -27,7 +27,7 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontra projetos e soluçõe
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?MuriloGalassi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuriloGalassi&show_icons=true&theme=radical)
 
 ---
 
