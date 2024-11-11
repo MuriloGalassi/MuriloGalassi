@@ -1,41 +1,64 @@
-<center><h2>Olá! Eu sou o Murilo Galassi 👋</h2></center>
+# 💻 Murilo Galassi - Desenvolvedor de Software
 
-- 👽 Olá, sou Murilo, formado em Ciências da Computação e apaixonado por tecnologia. Também gosto de praticar Jiu-Jitsu. Atualmente, estou em busca de uma vaga na área de programação.
+Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontra projetos e soluções em desenvolvimento de software com foco em **[suas principais linguagens ou áreas de interesse, como Python, JavaScript, C#, etc.]**. Trabalho para resolver problemas complexos com soluções simples e escaláveis.
 
-- 🔭 Hoje trabalho com suporte tecnico
+---
 
-- 🌱 Estudando C# e .NET
+## 🌐 Sobre Mim
 
-- 😄 Pronouns: ele/dele
+- **Desenvolvedor** | **Entusiasta de Tecnologias de Código Aberto** | **Inovador**
+- Apaixonado por criar código que transforma ideias em realidade, com foco em clean code e performance.
+- Interesse em **Desenvolvimento Back-end**.
+- Sempre explorando novas tecnologias e aprimorando minhas habilidades.
 
-##
+---
 
-<div align='center'>
+## 🚀 Tecnologias e Ferramentas
 
-<div align="center">  
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MuriloGalassi&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloGalassi&flayout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a" />
+</p>
 
-##
+---
 
-</div>
+## 📊 Estatísticas
 
-<center><div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?userMuriloGalassi&show_icons=true&theme=radical)
 
-  ##
- 
-<div> 
-  <center><a href="https://www.linkedin.com/in/murilo-galassi-56b219226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">,</center></a>
-</div>
+---
+
+## 📚 Projetos em Destaque
+
+### 🔹 [Projeto 1: Nome do Projeto](https://github.com/seu-usuario/projeto-1)
+> Descrição breve do projeto e das tecnologias principais usadas, por exemplo:
+> - **Tecnologias**: Python, Flask, MongoDB
+> - **Descrição**: Um projeto para gerenciar e analisar dados de [qualquer funcionalidade importante do projeto].
+
+### 🔹 [Projeto 2: Nome do Projeto](https://github.com/seu-usuario/projeto-2)
+> Descrição breve do projeto e das tecnologias principais usadas, por exemplo:
+> - **Tecnologias**: React, Node.js, PostgreSQL
+> - **Descrição**: Aplicação full-stack para [explicação da funcionalidade] com foco em experiência do usuário e desempenho.
+
+---
+
+## 🌱 Em Desenvolvimento
+
+Atualmente explorando:
+- **C# e .Net** para Back-end
+- **Microsserviços** em arquiteturas escaláveis
+
+---
+
+## 📫 Vamos nos Conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/murilo-galassi-56b219226/)
+[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:seuemail@example.com)
+
+---
+
+_Sinta-se à vontade para explorar e colaborar em algum projeto! Vamos codar juntos!_
+
