@@ -27,7 +27,7 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontra projetos e soluçõe
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?userMuriloGalassi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?MuriloGalassi&show_icons=true&theme=radical)
 
 ---
 
