@@ -33,15 +33,16 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontra projetos e soluçõe
 
 ## 📚 Projetos em Destaque
 
-### 🔹 [Projeto 1: Nome do Projeto](https://github.com/seu-usuario/projeto-1)
+### 🔹 [Projeto 1: CadastroClienteAPI](https://github.com/MuriloGalassi/CadastroClienteAPI)
 > Descrição breve do projeto e das tecnologias principais usadas, por exemplo:
-> - **Tecnologias**: Python, Flask, MongoDB
-> - **Descrição**: Um projeto para gerenciar e analisar dados de [qualquer funcionalidade importante do projeto].
+> - **Tecnologias**: C#, ApiRestfull, SQL, ASP.NET Core, Entity Framework Core, MVC
+> - **Descrição**: Este projeto é uma API RESTful de Cadastro de Clientes desenvolvida em ASP.NET Core. Utiliza Entity Framework Core para integração com um banco de dados SQL Server, implementando operações CRUD (Create, Read, Update, Delete) para gerenciar dados de clientes. A estrutura do projeto segue o padrão MVC, com endpoints para gerenciar clientes via rotas da Web API. Ideal para estudos de APIs com .NET e integração com bancos de dados relacionais..
 
-### 🔹 [Projeto 2: Nome do Projeto](https://github.com/seu-usuario/projeto-2)
+### 🔹 [Projeto 2: ProjetoEstacionamento](https://github.com/MuriloGalassi/ProjetoEstacionamento)
 > Descrição breve do projeto e das tecnologias principais usadas, por exemplo:
-> - **Tecnologias**: React, Node.js, PostgreSQL
-> - **Descrição**: Aplicação full-stack para [explicação da funcionalidade] com foco em experiência do usuário e desempenho.
+> - **Tecnologias**: C#
+> - **Descrição**: 
+Esse código implementa um sistema básico de estacionamento em C#. Ele contém três classes principais: Veiculo, que armazena a placa e os horários de entrada e saída; Vaga, que representa uma vaga de estacionamento e verifica sua disponibilidade; e Estacionamento, que gerencia o estacionamento, permitindo registrar a entrada e saída de veículos, calcular tarifas com base no tempo estacionado e exibir o status atual das vagas.
 
 ---
 
@@ -56,7 +57,6 @@ Atualmente explorando:
 ## 📫 Vamos nos Conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/murilo-galassi-56b219226/)
-[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:seuemail@example.com)
 
 ---
 
