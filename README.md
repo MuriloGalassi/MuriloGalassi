@@ -58,15 +58,21 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontra projetos e soluçõe
 ## 📚 Projetos em Destaque
 
 ### 🔹 [Projeto 1: CadastroClienteAPI](https://github.com/MuriloGalassi/CadastroClienteAPI)
-> Descrição breve do projeto e das tecnologias principais usadas, por exemplo:
+> Descrição breve do projeto e das tecnologias principais usadas:
 > - **Tecnologias**: C#, ApiRestfull, SQL, ASP.NET Core, Entity Framework Core, MVC
 > - **Descrição**: Este projeto é uma API RESTful de Cadastro de Clientes desenvolvida em ASP.NET Core. Utiliza Entity Framework Core para integração com um banco de dados SQL Server, implementando operações CRUD (Create, Read, Update, Delete) para gerenciar dados de clientes. A estrutura do projeto segue o padrão MVC, com endpoints para gerenciar clientes via rotas da Web API. Ideal para estudos de APIs com .NET e integração com bancos de dados relacionais..
 
 ### 🔹 [Projeto 2: ProjetoEstacionamento](https://github.com/MuriloGalassi/ProjetoEstacionamento)
-> Descrição breve do projeto e das tecnologias principais usadas, por exemplo:
+> Descrição breve do projeto e das tecnologias principais usadas:
 > - **Tecnologias**: C#
 > - **Descrição**: 
 Esse código implementa um sistema básico de estacionamento em C#. Ele contém três classes principais: Veiculo, que armazena a placa e os horários de entrada e saída; Vaga, que representa uma vaga de estacionamento e verifica sua disponibilidade; e Estacionamento, que gerencia o estacionamento, permitindo registrar a entrada e saída de veículos, calcular tarifas com base no tempo estacionado e exibir o status atual das vagas.
+
+### 🔹 [Projeto 3: ControleDeVendas](https://github.com/MuriloGalassi/ControleDeVendas)
+> Descrição breve do projeto e das tecnologias principais usadas:
+> - **Tecnologias**: C#
+> - **Descrição**: 
+Este é um sistema de controle de vendas em C# que permite o gerenciamento de produtos, clientes e vendas. Ele inclui funcionalidades para cadastrar produtos e clientes, realizar vendas com controle de estoque e gerar relatórios de vendas detalhados. O código utiliza programação orientada a objetos, com classes para representar produtos, clientes, itens de venda e vendas, promovendo organização e reutilização de código.
 
 ---
 
