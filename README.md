@@ -1,94 +1,99 @@
-# 💻 Murilo Galassi - Desenvolvedor de Software
+# 💻 **Murilo Galassi - Desenvolvedor de Software**
 
-Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontra projetos e soluções em desenvolvimento de software com foco em Python, JavaScript e C#. Trabalho para resolver problemas complexos com soluções simples e escaláveis.
-
----
-
-## 🌐 Sobre Mim
-
-- **Desenvolvedor** | **Entusiasta de Tecnologias de Código Aberto** | **Inovador**
-- Apaixonado por criar código que transforma ideias em realidade, com foco em clean code e performance.
-- Interesse em **Desenvolvimento Back-end**.
-- Sempre explorando novas tecnologias e aprimorando minhas habilidades.
+Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos e soluções inovadoras, criados com **C#**, **HTML**, **CSS** e **Python**, sempre com foco em código limpo, desempenho e escalabilidade. Vamos transformar ideias em realidade? 🌟
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🌐 **Sobre Mim**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
-  <img src="https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a" />
-</p>
+- 👨‍💻 **Desenvolvedor de Software** apaixonado por resolver problemas complexos com soluções simples e eficientes.  
+- 🔍 Focado em **Desenvolvimento Back-End** e otimização de arquiteturas de software.  
+- 💡 Entusiasta de **tecnologias emergentes** e defensor de boas práticas como **Clean Code** e **DevOps**.  
+- 🌱 Sempre aprendendo e explorando novas ferramentas e frameworks para expandir minhas habilidades.
 
 ---
 
-## 📊 Estatísticas
+## ⚡ **Tech Stack**
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MuriloGalassi&show_icons=true&count_private=true&hide_border=true&title_color=6c757d&icon_color=6c757d&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Murilo Galassi" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloGalassi&layout=compact&hide_border=true&title_color=6c757d&text_color=6c757d&bg_color=0d1117" />
+### 🌐 **Back-End & Frameworks**
+- 🔹 **.NET Core / ASP.NET MVC**
+- 🔹 **Entity Framework**
+- 🔹 **RESTful APIs**
+
+### 🎨 **Front-End**
+- 🔹 **HTML5, CSS3**
+- 🔹 **Bootstrap / TailwindCSS**
+- 🔹 **JavaScript (básico)**
+
+### 🤖 **Automação & Data**
+- 🔹 **Python** (Automação de tarefas, scripts e análise de dados)
+- 🔹 **Pandas e NumPy**
+
+### 💾 **Banco de Dados**
+- 🔹 **SQL Server**
+- 🔹 **SQLite / PostgreSQL**
+
+### ⚙️ **Ferramentas & Workflows**
+- 🔹 **Git / GitHub**
+- 🔹 **Visual Studio & VS Code**
+- 🔹 **Docker (básico)**
+- 🔹 **CI/CD** (Azure Pipelines, GitHub Actions)
+
+
+---
+
+## 📊 **Minhas Estatísticas no GitHub**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloGalassi&show_icons=true&hide_border=true&theme=radical" alt="Estatísticas do GitHub de Murilo Galassi" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloGalassi&layout=compact&hide_border=true&theme=radical" alt="Linguagens mais usadas por Murilo Galassi" />
 </div>
 
 <br>
 
-[![Gráfico de atividade do GitHub de Ashutosh](https://github-readme-activity-graph.vercel.app/graph?username=MuriloGalassi&bg_color=000000&color=6c757d&line=6c757d&point=6c757d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=MuriloGalassi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fef3bd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloGalassi&theme=tokyonight&hide_border=true" />
+## 📚 **Projetos em Destaque**
+
+### 🔹 [CadastroClienteAPI](https://github.com/MuriloGalassi/CadastroClienteAPI)  
+- **Tecnologias**: C#, ASP.NET Core, SQL Server, Entity Framework  
+- **Descrição**: API RESTful para gerenciamento de clientes com operações CRUD e integração com banco de dados relacional. Segue padrões de arquitetura limpa e é ideal para estudos de APIs escaláveis.
+
+---
+
+### 🔹 [ProjetoEstacionamento](https://github.com/MuriloGalassi/ProjetoEstacionamento)  
+- **Tecnologias**: C#  
+- **Descrição**: Sistema completo de gerenciamento de estacionamento com controle de vagas, cálculo automático de tarifas e relatórios gerenciais.
+
+---
+
+### 🔹 [ControleDeVendas](https://github.com/MuriloGalassi/ControleDeVendas)  
+- **Tecnologias**: C#  
+- **Descrição**: Sistema de controle de vendas com gerenciamento de estoque, cadastro de clientes e geração de relatórios detalhados.
+
+---
+
+## 🌱 **Explorando Atualmente**
+
+- 🔹 **C# e .NET** para desenvolvimento de sistemas robustos.  
+- 🔹 **Microsserviços** para criar arquiteturas escaláveis e distribuídas.  
+- 🔹 **Python** para automação e análise de dados.  
+
+---
+
+## 📫 **Vamos nos Conectar?**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/murilo-galassi-56b219226/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@dominio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuriloGalassi&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">
-<br><p align="centre"><b>Contagem de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MuriloGalassi}/count.svg" /></p> 
-<br></div>
-
 ---
 
-## 📚 Projetos em Destaque
-
-### 🔹 [Projeto 1: CadastroClienteAPI](https://github.com/MuriloGalassi/CadastroClienteAPI)
-> Descrição breve do projeto e das tecnologias principais usadas:
-> - **Tecnologias**: C#, ApiRestfull, SQL, ASP.NET Core, Entity Framework Core, MVC
-> - **Descrição**: Este projeto é uma API RESTful de Cadastro de Clientes desenvolvida em ASP.NET Core. Utiliza Entity Framework Core para integração com um banco de dados SQL Server, implementando operações CRUD (Create, Read, Update, Delete) para gerenciar dados de clientes. A estrutura do projeto segue o padrão MVC, com endpoints para gerenciar clientes via rotas da Web API. Ideal para estudos de APIs com .NET e integração com bancos de dados relacionais..
-
-### 🔹 [Projeto 2: ProjetoEstacionamento](https://github.com/MuriloGalassi/ProjetoEstacionamento)
-> Descrição breve do projeto e das tecnologias principais usadas:
-> - **Tecnologias**: C#
-> - **Descrição**: 
-Esse código implementa um sistema básico de estacionamento em C#. Ele contém três classes principais: Veiculo, que armazena a placa e os horários de entrada e saída; Vaga, que representa uma vaga de estacionamento e verifica sua disponibilidade; e Estacionamento, que gerencia o estacionamento, permitindo registrar a entrada e saída de veículos, calcular tarifas com base no tempo estacionado e exibir o status atual das vagas.
-
-### 🔹 [Projeto 3: ControleDeVendas](https://github.com/MuriloGalassi/ControleDeVendas)
-> Descrição breve do projeto e das tecnologias principais usadas:
-> - **Tecnologias**: C#
-> - **Descrição**: 
-Este é um sistema de controle de vendas em C# que permite o gerenciamento de produtos, clientes e vendas. Ele inclui funcionalidades para cadastrar produtos e clientes, realizar vendas com controle de estoque e gerar relatórios de vendas detalhados. O código utiliza programação orientada a objetos, com classes para representar produtos, clientes, itens de venda e vendas, promovendo organização e reutilização de código.
-
----
-
-## 🌱 Em Desenvolvimento
-
-Atualmente explorando:
-- **C# e .Net** para Back-end
-- **Microsserviços** em arquiteturas escaláveis
-
----
-
-## 📫 Vamos nos Conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/murilo-galassi-56b219226/)
-
----
-
-_Sinta-se à vontade para explorar e colaborar em algum projeto! Vamos codar juntos!_
-
+_Sinta-se à vontade para explorar meus projetos e colaborar! Vamos codar juntos e criar soluções incríveis!_ 🚀
