@@ -27,7 +27,6 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos e soluç
 
 ### 🤖 **Automação & Data**
 - 🔹 **Python** (Automação de tarefas, scripts e análise de dados)
-- 🔹 **Pandas e NumPy**
 
 ### 💾 **Banco de Dados**
 - 🔹 **SQL Server**
