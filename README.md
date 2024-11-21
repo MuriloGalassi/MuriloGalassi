@@ -52,6 +52,29 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos e soluç
 
 [![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=MuriloGalassi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=fef3bd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+---
+
+## 🏆 Conquistas do GitHub:
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloGalassi&theme=dark&hide_border=true" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuriloGalassi&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">
+<br><p align="centre"><b>Contagem de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MuriloGalassi}/count.svg" /></p> 
+<br></div>
+
+
 ---
 
 ## 📚 **Projetos em Destaque**
@@ -60,17 +83,20 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos e soluç
 - **Tecnologias**: C#, ASP.NET Core, SQL Server, Entity Framework  
 - **Descrição**: API RESTful para gerenciamento de clientes com operações CRUD e integração com banco de dados relacional. Segue padrões de arquitetura limpa e é ideal para estudos de APIs escaláveis.
 
+
 ---
 
 ### 🔹 [ProjetoEstacionamento](https://github.com/MuriloGalassi/ProjetoEstacionamento)  
 - **Tecnologias**: C#  
 - **Descrição**: Sistema completo de gerenciamento de estacionamento com controle de vagas, cálculo automático de tarifas e relatórios gerenciais.
 
+
 ---
 
 ### 🔹 [ControleDeVendas](https://github.com/MuriloGalassi/ControleDeVendas)  
 - **Tecnologias**: C#  
 - **Descrição**: Sistema de controle de vendas com gerenciamento de estoque, cadastro de clientes e geração de relatórios detalhados.
+
 
 ---
 
@@ -79,6 +105,7 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos e soluç
 - 🔹 **C# e .NET** para desenvolvimento de sistemas robustos.  
 - 🔹 **Microsserviços** para criar arquiteturas escaláveis e distribuídas.  
 - 🔹 **Python** para automação e análise de dados.  
+
 
 ---
 
