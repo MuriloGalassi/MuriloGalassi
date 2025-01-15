@@ -1,6 +1,6 @@
 # 💻 **Murilo Galassi - Desenvolvedor de Software**
 
-Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos e soluções inovadoras, criados com **C#**, **HTML**, **CSS** e **Python**, sempre com foco em código limpo, desempenho e escalabilidade. Vamos transformar ideias em realidade? 🌟
+Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos e soluções inovadoras, criados com **C#**, **HTML**, **CSS**, **Python** e muito mais, sempre com foco em código limpo, desempenho e escalabilidade. Vamos transformar ideias em realidade? 🌟
 
 ---
 
@@ -15,20 +15,15 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos e soluç
 
 ## ⚡ **Tech Stack**
 
-### 🌐 **Back-End & Frameworks**
+### 🌐 **Conhecimentos**
 - 🔹 **.NET Core / ASP.NET MVC**
 - 🔹 **Entity Framework**
 - 🔹 **RESTful APIs**
-
-### 🎨 **Front-End**
 - 🔹 **HTML5, CSS3**
+- 🔹 **Node.Js / Javascript / Typescript**
 - 🔹 **Bootstrap / TailwindCSS**
 - 🔹 **JavaScript (básico)**
-
-### 🤖 **Automação & Data**
 - 🔹 **Python** (Automação de tarefas, scripts e análise de dados)
-
-### 💾 **Banco de Dados**
 - 🔹 **SQL Server**
 - 🔹 **SQLite / PostgreSQL**
 
