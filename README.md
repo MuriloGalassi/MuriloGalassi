@@ -22,7 +22,6 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos e soluç
 - 🔹 **HTML5, CSS3**
 - 🔹 **Node.Js / Javascript / Typescript**
 - 🔹 **Bootstrap / TailwindCSS**
-- 🔹 **JavaScript (básico)**
 - 🔹 **Python** (Automação de tarefas, scripts e análise de dados)
 - 🔹 **SQL Server**
 - 🔹 **SQLite / PostgreSQL**
